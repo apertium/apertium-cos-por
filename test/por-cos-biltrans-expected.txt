@@ -1,0 +1,20 @@
+[0DUCxD10owuT#0] ^,<cm>/,<cm>$
+[/0DUCxD10owuT]
+[7cXyzDyVsqi6#0] ^documento<n><m><sg>/documentu<n><m><sg>$
+[/7cXyzDyVsqi6]
+[QbgF6nrAFOI1#0] ^;<sent>/;<sent>$
+[/QbgF6nrAFOI1]
+[W4jvNwFEmLbU#0] ^número<n><m><pl>/numaru<n><m><pl>$
+[/W4jvNwFEmLbU]
+[gbUQhfFuYBJj#0] ^viagem<n><f><pl>/viaghju<n><m><pl>$
+[/gbUQhfFuYBJj]
+[io3oI9XtPhJ0#0] ^?<sent>/?<sent>$
+[/io3oI9XtPhJ0]
+[kS_ALTDME5g6#0] ^museu<n><m><sg>/museiu<n><m><sg>$
+[/kS_ALTDME5g6]
+[sWo56__yCc6Y#0] ^sujeito<n><m><sg>/sughjettu<n><m><sg>$
+[/sWo56__yCc6Y]
+[u3IIvJtdfATx#0] ^!<sent>/!<sent>$
+[/u3IIvJtdfATx]
+[zbTuKuppzGqD#0] ^.<sent>/.<sent>$
+[/zbTuKuppzGqD]

@@ -1,0 +1,10 @@
+{
+    "cos-por": {
+        "input": "cos-por-input.txt",
+        "mode": "cos-por"
+    },
+    "por-cos": {
+        "input": "por-cos-input.txt",
+        "mode": "por-cos"
+    }
+}
